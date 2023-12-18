@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+.logo{
+    width: 10%;
+}
+ /* .rowww{
+    margin-top: 90px;
+} 
+
+ .col-lg-5{
+    
+    margin-left: 80px;
+  font-family: 'Anton', sans-serif;
+  margin-top: 47px;
+}   */
+.para{
+    margin-left: 100px;
+  margin-top: 40px;
+  font-family: 'Anton', sans-serif;
+}
+ /* .col-lg-7{
+   
+    margin-left: 550px;
+  margin-top: -303px;
+}  */
+
+.logos{
+    width: 18%;
+    margin-top: -450px;
+    display: flex;
+    justify-content:space-around ;
+    margin-left: 100px;
+}
+span{
+    font-size: 30px;
+    color: rgb(124, 203, 6);
+    font-family: 'Anton', sans-serif;
+
+}
+h1{
+    font-size: 60px;
+}
+span1{
+    font-size: 60px;
+    color: rgb(124, 203, 6);
+    font-family: 'Anton', sans-serif;
+
+}
+.sym{
+    margin-top: 90px;
+    margin-left: 100px;
+    
+}
+span4{
+    color:#00ffff;
+    font-size: 32px;
+}
+span5{
+    color: grey;
+    font-size: 33px;
+}
+span6{
+    color: green;
+    font-size: 33px;
+}
+.k{
+    margin-top: 90px;
+}
+span7{
+    color: rgb(124, 203, 6);
+    font-family: 'Anton', sans-serif;
+   
+}
+h4{
+    margin-left: 500px;
+    margin-top:-80px;
+
+}
+
+@media(orientation:portrait)
+
+{
+    .pic{
+    width:100%
+   } 
+   
+   .logos{
+    margin-top: -540px;
+   }
+.sym{
+    margin-top: 550px;
+    margin-left: 170px;
+}
+.k{
+    margin-left: -330px;
+}
+.y{
+    width: 50%;
+    margin-left: 370px;
+}
+.logo{
+    width: 50px;
+    height: 25px;
+}
+.logos{
+    
+    
+}
+
+}
